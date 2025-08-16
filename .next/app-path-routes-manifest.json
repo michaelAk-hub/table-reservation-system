@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/reservations/route": "/api/reservations",
+  "/api/reservations/upload/route": "/api/reservations/upload",
+  "/api/seats/import/route": "/api/seats/import",
+  "/dashboard/page": "/dashboard",
+  "/page": "/",
+  "/reservation/page": "/reservation",
+  "/host/page": "/host"
+}
